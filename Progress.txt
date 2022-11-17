@@ -1,0 +1,8 @@
+Apache Spark vs Hadoop (Real-Time Processing)  vs FrameWorks 
+Language Selection 
+Spark Functions plus (RDDs)
+Apache Kafka vs framework
+Pipeline Flow 
+Data Warehouse 
+Data Decentralization
+Load (incomplete)
